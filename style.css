@@ -1,0 +1,21 @@
+*{
+ margin:0;
+ padding:0;
+}
+
+
+.introduction{
+background-color: rgb(14, 14, 200);
+text-align: center;
+width: 600px;
+}
+
+
+.top{
+background-color: rgb(14, 14, 200);
+height: 20vh;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
